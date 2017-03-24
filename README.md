@@ -1,2 +1,1 @@
-# PyQt
-PyQt
+#PyQt Projects and Resources
